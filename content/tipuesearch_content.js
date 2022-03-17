@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': 'w3_hw', 'text': '\n v11 \n 影片繪製', 'tags': '', 'url': 'w3_hw.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n', 'tags': '', 'url': 'About.html'}, {'title': 'w3_hw', 'text': '\n v11 \n 影片繪製 \n \n \n \n \n   \n \n \n \n \n \n \n \n', 'tags': '', 'url': 'w3_hw.html'}]};
